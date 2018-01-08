@@ -1,0 +1,23 @@
+c:\users\dubsky\documents\visual studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\M8ConnectorV2.vbprojResolveAssemblyReference.cache
+c:\users\dubsky\documents\visual studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\M8ConnectorV2.vbproj.GenerateResource.Cache
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Steam8 Tool.exe.config
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Steam8 Tool.exe.manifest
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Steam8 Tool.application
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Steam8 Tool.exe
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Steam8 Tool.pdb
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\Steam8 Tool.xml
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8v2.Info.resources
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8v2.Login.resources
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8v2.Main.resources
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8v2.Resources.resources
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8 Tool.TrustInfo.xml
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8 Tool.exe.manifest
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8 Tool.application
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8 Tool.exe
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8 Tool.xml
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8 Tool.pdb
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\obj\Debug\Steam8v2.Options.resources
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\PictureBoxAbouAmmar.dll
+C:\Users\Dubsky\Documents\Visual Studio 2017\Projects\M8ConnectorV2\M8ConnectorV2\bin\Debug\MySql.Data.dll
